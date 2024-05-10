@@ -1,0 +1,9 @@
+
+
+grid_world_height: 64
+grid_world_width: 64
+
+obstacle_prob: 0.05
+obstacle_freq: 20
+
+food_num: 20
